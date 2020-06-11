@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: all the things that don't exist
+image: /img/soliman.jpg
 heading: all the things that don't exist
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
